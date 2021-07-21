@@ -22,3 +22,7 @@ parameters = {
 
 [Weather codintion id Reference](https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2)
 
+
+<span>
+<img src="https://github.com/jaynarayan94/API-Applications-Projects/blob/main/Rain%20Alert/Rain%20%26%20Stock%20Alert.jpeg" width=500px height="450px" />
+</span>
