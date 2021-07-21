@@ -7,10 +7,10 @@ COMPANY_NAME = "Tesla Inc"
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 
-STOCK_API_KEY = "R70TBRRMO3T81KQX"
-NEWS_API_KEY = "dc15d178540141eb8d6afa2f9a8c5acf"
-account_sid = "AC16c6570873c5f70a50f0dafa848ab965"
-auth_token = "8f1b761169d48ea7b8075d42805cb830"
+STOCK_API_KEY = "STOCK_API_KEY"
+NEWS_API_KEY = "NEWS_API_KEY"
+account_sid = "account_sid"
+auth_token = "auth_token"
 
 
 ## STEP 1: Use https://www.alphavantage.co/documentation/#daily
@@ -75,6 +75,6 @@ if abs(diff_percent) > 0.5:
     for article in formatted_articles:
         message = client.messages.create(
                 body= article,
-                from_='+17603139117',
-                to='+919972953907')
+                from_='Twilio Number',
+                to='Receivers number')
         # print(message.status)
