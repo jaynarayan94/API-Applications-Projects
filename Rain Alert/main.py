@@ -39,8 +39,8 @@ if will_rain:
     client = Client(account_sid, auth_token)
     message = client.messages.create(
         body="It's going to rain today. Remember to take an ☔️ while going out.",
-        from_='+17603139117',
-        to='+919972953907'
+        from_='Your Twilio Number',
+        to='Receivers Numbers'
     )
     print(message.status)
 
