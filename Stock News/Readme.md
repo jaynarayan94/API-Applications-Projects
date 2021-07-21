@@ -2,6 +2,7 @@
 
 
 STEP 1: Use https://www.alphavantage.co/documentation/#daily
+
 1(a) : When stock price increase/decreases by 5%(or any threshold) between yesterday and the day before yesterday.
 
 
