@@ -1,4 +1,4 @@
-Rain Alert
+<h2>Rain Alert</h2>
 
 Make one API call using Weather API to extract the Hourly forecast for the next 11 hrs of the day then extract the current.weather.id(Weather condition id) for those 11 hrs and If the id is less than 700 that means it may rain that day.
 If the id value is less then 700 using [Twillio](https://www.twilio.com/) a message is triggered to my personal phone. Giving a reminder message to carry a umberella that day.
