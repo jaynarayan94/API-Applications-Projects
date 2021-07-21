@@ -20,5 +20,5 @@ parameters = {
     }
 ```
 
-Weather codintion id Ref: https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2
+[Weather codintion id Reference](https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2)
 
