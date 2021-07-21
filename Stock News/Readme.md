@@ -21,11 +21,12 @@ else:
     up_down = "🔻"
 ```
 
-1(c) : # Work out the percentage difference in price between closing price yesterday and closing price the day before yesterday.
+1(c) : Work out the percentage difference in price between closing price yesterday and closing price the day before yesterday.
 
 STEP 2: https://newsapi.org/
 If percentage is greater than 5 then print("Get News").
 Get the first 3 news pieces for the COMPANY_NAME.
+
 
 
 STEP 3: Use twilio.com/docs/sms/quickstart/python to send a separate message with each article's title and description to your phone number.
