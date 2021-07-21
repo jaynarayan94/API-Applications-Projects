@@ -24,5 +24,5 @@ parameters = {
 
 
 <span>
-<img src="https://github.com/jaynarayan94/API-Applications-Projects/blob/main/Rain%20Alert/Rain%20%26%20Stock%20Alert.jpeg" width=500px height="450px" />
+<img src="https://github.com/jaynarayan94/API-Applications-Projects/blob/main/Rain%20Alert/Rain%20%26%20Stock%20Alert.jpeg" width=400px height="700px" />
 </span>
